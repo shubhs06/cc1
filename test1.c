@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf(\n"This is a Program");
+printf("\n\nThis is a Program\n\n");
 return 0;
 }
